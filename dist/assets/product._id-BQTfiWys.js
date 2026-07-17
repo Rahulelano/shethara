@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DUAcabCT.js";import{t}from"./link-D79AjtC2.js";var n=e(),r=()=>(0,n.jsxs)(`div`,{className:`mx-auto max-w-3xl px-5 py-32 text-center`,children:[(0,n.jsx)(`h1`,{className:`font-display text-4xl`,children:`Product not found`}),(0,n.jsx)(t,{to:`/shop`,className:`btn-primary mt-8`,children:`Back to Shop`})]});export{r as notFoundComponent};
